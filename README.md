@@ -8,6 +8,8 @@
 - Jan. 16th (Wed) - [Data Analyst to Data Scientist: Learn Python with an Excel Mindset](https://www.eventbrite.com/e/data-analyst-to-data-scientist-learn-python-with-an-excel-mindset-tickets-54504342957)
 - Jan. 19th (Sat) - [Learn to Code in 2019! JavaScript Foundations](https://www.eventbrite.com/e/learn-to-code-in-2019-javascript-foundations-tickets-54285590663)
 - Jan. 22nd (Tue) - [Common Machine Learning Mistakes & Full-Stack Data Science at Infusionsoft](https://www.eventbrite.com/e/common-machine-learning-mistakes-full-stack-data-science-at-infusionsoft-tickets-54791999345)
+- Jan. 23rd (Wed) - [AWS Fargate as an Infrastructure Product](https://www.meetup.com/Phoenix-DevOps-Meetup/events/257761057/)
+- Jan. 23rd (Wed) - [Django Introduction](https://www.meetup.com/Phoenix-Python-Meetup-Group/events/257925849/)
 - Jan. 24th-25th (Thur-Fri) - [2019 Southwest Robotics Symposium](https://swrobotics.engineering.asu.edu/)
 - Jan. 26th (Sat) - [IoT DevFest ($20)](https://ti.to/iot-devfest/iot-devfest-2019/discount/MEETUPMEETUP)
 
