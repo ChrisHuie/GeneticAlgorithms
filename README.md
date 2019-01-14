@@ -1,11 +1,10 @@
-# Genetic Algorithms in Data Science with GCU Professor Dr. Artzi
+# Genetic Algorithms in Data Science:
+# Some Theoretical Aspects of Employing GA Reinforcement Learning
 
 ---
 
 ## Description:
-Genetic Algorithms in Data Science: Some Theoretical Aspects of Employing GA Reinforcement Learning
-
-This presentation will introduce the concepts of genetic network programming and its benefits in improving the computational complexity of learning algorithms. In particular, we will focus on graph representations of problems particularly suited for reinforcement learning.
+_This presentation will introduce the concepts of genetic network programming and its benefits in improving the computational complexity of learning algorithms. In particular, we will focus on graph representations of problems particularly suited for reinforcement learning._
 
 ---
 
