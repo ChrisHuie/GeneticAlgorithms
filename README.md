@@ -1,4 +1,4 @@
-#Genetic Algorithms in Data Science with GCU Professor Dr. Artzi
+# Genetic Algorithms in Data Science with GCU Professor Dr. Artzi
 
 ---
 
