@@ -1,5 +1,5 @@
-# Genetic Algorithms in Data Science:
-# Some Theoretical Aspects of Employing GA Reinforcement Learning
+# Genetic Algorithms in Data Science 🤓🔬
+# Theoretical Aspects of Employing GA Reinforcement Learning
 
 ---
 
