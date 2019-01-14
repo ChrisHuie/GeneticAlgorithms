@@ -9,10 +9,10 @@ _This presentation will introduce the concepts of genetic network programming an
 ---
 
 ## Schedule:
-6:00 - 6:45 - Eat, Meet, and Greet
-6:45 - 7:00 - Introduction / Announcements
-7:00 - 7:20 - GCU Student Demos/Presentations
-7:20 - 8:30 - Dr. Artzi Presents on Genetic Algorithms
+- 6:00 - 6:45 - Eat, Meet, and Greet
+- 6:45 - 7:00 - Introduction / Announcements
+- 7:00 - 7:20 - GCU Student Demos/Presentations
+- 7:20 - 8:30 - Dr. Artzi Presents on Genetic Algorithms
 
 ---
 
